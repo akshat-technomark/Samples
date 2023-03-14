@@ -1,0 +1,21 @@
+/* Table View Css */
+.table_view{
+    width: 50%;
+    margin: 0 auto;
+}
+.table_view table {
+    width: 100%;
+}
+.table_view th, .table_view td{
+    padding: 5px;
+}
+#form_data{
+    display: none;
+}
+#form_data.visiblity_form{
+    display: block;
+}
+.add-data{
+    width: fit-content;
+    margin: 0 auto;
+}
